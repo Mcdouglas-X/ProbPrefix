@@ -33,6 +33,9 @@ In case of having a series of pre-stored prefixes, they are added to the script 
 
 **Disclaimer:** This script is only a demonstration, based on my own statistics which may seem counterintuitive due to the depth of probabilities. It is not intended to be fast either. Create your own version in C and Cuda if you desire an optimal environment. I do not have the resources to explore with Cuda at the moment.
 
+# Discussion Thread
+
+Discusion thread: https://bitcointalk.org/index.php?topic=5530938
 
 **Donate to:**
 **btc: bc1qxs47ttydl8tmdv8vtygp7dy76lvayz3r6rdahu**
