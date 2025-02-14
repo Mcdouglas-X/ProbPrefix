@@ -1,7 +1,7 @@
 # ProbPrefix
 Probabilistic Prefix Search
 
-This technique is based on the composite probability that a specific prefix appears in a set or range of hashes, discarding the less probable percentages.
+This technique is based on the compound probability that a specific prefix appears in a set or range of hashes, discarding the less probable percentages.
 
 
 
