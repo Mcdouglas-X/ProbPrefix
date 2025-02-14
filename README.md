@@ -3,7 +3,11 @@ Probabilistic Prefix Search
 
 This technique is based on the compound probability that a specific prefix appears in a set or range of hashes, discarding the less probable percentages.
 
+**requirements:**
 
+secp256k1
+
+https://github.com/iceland2k14/secp256k1
 
 using **ProbPrefix.py**
 
